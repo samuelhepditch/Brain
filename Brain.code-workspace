@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Brain",
+			"path": "."
+		},
+		{
+			"name": "docs",
+			"path": "../.Trash/docs"
+		}
+	],
+	"settings": {
+		"foam.edit.linkReferenceDefinitions": "withExtensions"
+	}
+}
